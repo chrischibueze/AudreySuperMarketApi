@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\bin\Debug\net5.0\AudreySuperMarket.Models.deps.json
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\bin\Debug\net5.0\AudreySuperMarket.Models.dll
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\bin\Debug\net5.0\ref\AudreySuperMarket.Models.dll
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\bin\Debug\net5.0\AudreySuperMarket.Models.pdb
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.AssemblyInfo.cs
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.dll
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\ref\AudreySuperMarket.Models.dll
+C:\Users\HP\source\repos\AudreySuperMarket\AudreySuperMarket.Models\obj\Debug\net5.0\AudreySuperMarket.Models.pdb
